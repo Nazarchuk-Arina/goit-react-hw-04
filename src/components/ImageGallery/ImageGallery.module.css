@@ -1,5 +1,6 @@
-.friends__list {
+.list {
   display: flex;
   flex-direction: row;
-  gap: 25px;
+  flex-wrap: wrap;
+  gap: 15px;
 }
