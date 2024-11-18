@@ -26,9 +26,10 @@ img {
 }
 
 .container {
-  padding: 50px;
+  padding: 100px;
   display: flex;
   flex-direction: column;
   gap: 70px;
   align-items: center;
+  justify-content: center;
 }
